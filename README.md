@@ -1,3 +1,3 @@
 <picture>
-    <img src="./banner.png">
+    <img src="./banner.gif">
 </picture>
